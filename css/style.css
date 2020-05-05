@@ -1,0 +1,10 @@
+header{
+  border: solid black 5px;
+  background-color: green;
+  font-size: 40px;
+}
+
+nav{
+  border: solid black 5px;
+  background-color: yellow;
+}
